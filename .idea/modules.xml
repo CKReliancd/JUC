@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gernral/Gernral.iml" filepath="$PROJECT_DIR$/Gernral/Gernral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrent.iml" filepath="$PROJECT_DIR$/concurrency/concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/juc.iml" filepath="$PROJECT_DIR$/.idea/juc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jucdemo/jucdemo.iml" filepath="$PROJECT_DIR$/jucdemo/jucdemo.iml" />
+    </modules>
+  </component>
+</project>

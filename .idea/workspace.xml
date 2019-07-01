@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c00175e-2286-485f-8771-62d6e5900616" name="Default" comment="" />
+    <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/java180228/target/" />
+    <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/juc_demo/target/" />
+    <ignored path="$PROJECT_DIR$/jucdemo/target/" />
+    <ignored path="$PROJECT_DIR$/jsp/target/" />
+    <ignored path="$PROJECT_DIR$/jspTest/target/" />
+    <ignored path="$PROJECT_DIR$/concurrency/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="juc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/enums/CountryEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/CountDownLatchDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <analyzeAfterAutoMake>true</analyzeAfterAutoMake>
+    <runInBackground>true</runInBackground>
+    <toolWindowGroupBy>Class</toolWindowGroupBy>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compare</find>
+      <find>sgn</find>
+      <find>Comparator</find>
+      <find>initialValue</find>
+      <find>lastNumber</find>
+      <find>BigInteger</find>
+      <find>calendar</find>
+      <find>compareAndSwapInt</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/proxy/SteelBoss.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/proxy/SteelBossProxy.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/proxy/DynaProxyHandler.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/proxy/TestProxy.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/NoVisibility.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/MutableInteger.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/CountingSheep.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/Secrets.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/UnsafeStates.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/SafeListener.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/ThisEscape.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/Animals.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/ThreeStooges.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/OneValueCache.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/ConnectionDispenser.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/FlyBehavior.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/FlyWithWings.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/FlyNoWay.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/QuackBehavior.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/Quack.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/MuteQuack.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/Squack.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/Duck.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/MiniDuckSimulator.java" />
+        <option value="$PROJECT_DIR$/Gernral/src/Teacher.java" />
+        <option value="$PROJECT_DIR$/Gernral/src/Student.java" />
+        <option value="$PROJECT_DIR$/Gernral/src/Copy.java" />
+        <option value="$PROJECT_DIR$/jsp/src/main/java/com/example/demo/Teacher.java" />
+        <option value="$PROJECT_DIR$/jsp/src/main/java/com/example/demo/Student.java" />
+        <option value="E:/Server/RepMaven/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/BeanUtils.class" />
+        <option value="$PROJECT_DIR$/DataStructures/src/com/atguigu/sparsearray/sparsearray.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/sparsearray/sparsearray.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/queue/ArrayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/jsp/src/main/java/com/example/demo/Copy.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/queue/CirCleArrayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/linkedlist/SingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/Interview/study/thread/VolatilDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread/VolatilDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread/SIngletonDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread/SingletonDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread/ReenterLock.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread/SpinLock.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread/SpinLockDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread/ReadWriteLockDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/enums/CountryEnum.java" />
+        <option value="$PROJECT_DIR$/jucdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/enums/CountryEnum.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/CountDownLatchDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/server/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\server\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.packging.juc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.packging.juc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="concurrent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="concurrent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="910" />
+    <option name="y" value="-10" />
+    <option name="width" value="1020" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15482695" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\juc\jspTest\src\main\java\com" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.sparsearray" />
+      <recent name="entities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\juc\jucdemo\src\main\java\interview\study\thread" />
+      <recent name="D:\workspace\juc\jsp\src\main\java\com\example\demo" />
+      <recent name="D:\workspace\juc\jucdemo\src\main\java\entities" />
+      <recent name="D:\workspace\juc\jucdemo\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CountDownLatchDemo">
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.thread.CountDownLatchDemo" />
+      <module name="jucdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.thread.ReadWriteLockDemo" />
+      <module name="jucdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReenterLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.thread.ReenterLock" />
+      <module name="jucdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.thread.SingletonDemo" />
+      <module name="jucdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpinLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.thread.SpinLockDemo" />
+      <module name="jucdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_juc" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8210" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SingletonDemo" />
+      <item itemvalue="Application.ReenterLock" />
+      <item itemvalue="Application.SpinLockDemo" />
+      <item itemvalue="Application.ReadWriteLockDemo" />
+      <item itemvalue="Application.CountDownLatchDemo" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountDownLatchDemo" />
+        <item itemvalue="Application.ReadWriteLockDemo" />
+        <item itemvalue="Application.SpinLockDemo" />
+        <item itemvalue="Application.ReenterLock" />
+        <item itemvalue="Application.SingletonDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c00175e-2286-485f-8771-62d6e5900616" name="Default" comment="" />
+      <created>1552793915780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552793915780</updated>
+      <workItem from="1552793918982" duration="889000" />
+      <workItem from="1552816122022" duration="5125000" />
+      <workItem from="1552836396475" duration="14282000" />
+      <workItem from="1553052375980" duration="6244000" />
+      <workItem from="1553182470620" duration="724000" />
+      <workItem from="1553315578529" duration="1122000" />
+      <workItem from="1553363915249" duration="7000" />
+      <workItem from="1553423632735" duration="4573000" />
+      <workItem from="1553679422184" duration="3845000" />
+      <workItem from="1553785832267" duration="2155000" />
+      <workItem from="1554038279935" duration="202000" />
+      <workItem from="1554606865633" duration="1447000" />
+      <workItem from="1555649587319" duration="3041000" />
+      <workItem from="1556343683618" duration="3000" />
+      <workItem from="1557544162001" duration="11000" />
+      <workItem from="1557544927809" duration="4542000" />
+      <workItem from="1557574325667" duration="2106000" />
+      <workItem from="1557640276865" duration="10027000" />
+      <workItem from="1558236739046" duration="799000" />
+      <workItem from="1558451726457" duration="1393000" />
+      <workItem from="1558852213704" duration="2550000" />
+      <workItem from="1559056661741" duration="6000" />
+      <workItem from="1559056918029" duration="1779000" />
+      <workItem from="1559448538444" duration="1344000" />
+      <workItem from="1559456104997" duration="853000" />
+      <workItem from="1559470885402" duration="2352000" />
+      <workItem from="1559484629759" duration="3218000" />
+      <workItem from="1559657083931" duration="4829000" />
+      <workItem from="1559983790360" duration="4462000" />
+      <workItem from="1560045574375" duration="86000" />
+      <workItem from="1560045680695" duration="222000" />
+      <workItem from="1560045922743" duration="199000" />
+      <workItem from="1560046142046" duration="786000" />
+      <workItem from="1560051559822" duration="614000" />
+      <workItem from="1560053196197" duration="19000" />
+      <workItem from="1560053271856" duration="2028000" />
+      <workItem from="1560074304472" duration="6523000" />
+      <workItem from="1560348019209" duration="2408000" />
+      <workItem from="1560654426598" duration="9187000" />
+      <workItem from="1560865256905" duration="4005000" />
+      <workItem from="1561260733507" duration="2715000" />
+      <workItem from="1561276927346" duration="7298000" />
+      <workItem from="1561862051132" duration="272000" />
+      <workItem from="1561862364056" duration="1894000" />
+      <workItem from="1561864282518" duration="1613000" />
+      <workItem from="1561867206278" duration="8290000" />
+      <workItem from="1561885162445" duration="1994000" />
+      <workItem from="1561887853544" duration="861000" />
+      <workItem from="1561888738177" duration="15000" />
+      <workItem from="1561903208946" duration="992000" />
+      <workItem from="1561905688123" duration="71000" />
+      <workItem from="1561905799723" duration="308000" />
+      <workItem from="1561906129389" duration="1105000" />
+      <workItem from="1561942848613" duration="2141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="sparsearray_perfectIO - 2019.06.02 at 18h 49m 49s.xml">
+      <configuration name="sparsearray.perfectIO" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sparsearray_perfectIO - 2019.06.02 at 18h 49m 59s.xml">
+      <configuration name="sparsearray.perfectIO" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sparsearray_perfectIO - 2019.06.02 at 18h 56m 41s.xml">
+      <configuration name="sparsearray.perfectIO" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sparsearray_perfectIO - 2019.06.02 at 18h 57m 28s.xml">
+      <configuration name="sparsearray.perfectIO" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sparsearray_perfectInputStream - 2019.06.02 at 19h 04m 02s.xml">
+      <configuration name="sparsearray.perfectInputStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sparsearray_perfectInputStream - 2019.06.02 at 19h 04m 30s.xml">
+      <configuration name="sparsearray.perfectInputStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sparsearray_perfectOnputStream - 2019.06.02 at 19h 06m 10s.xml">
+      <configuration name="sparsearray.perfectOnputStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sparsearray_perfectOnputStream - 2019.06.02 at 19h 06m 35s.xml">
+      <configuration name="sparsearray.perfectOnputStream" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sparsearray_testIO - 2019.06.02 at 14h 26m 48s.xml">
+      <configuration name="sparsearray.testIO" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sparsearray_testIO - 2019.06.02 at 14h 27m 05s.xml">
+      <configuration name="sparsearray.testIO" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="139576000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20978552" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.70863837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44287395" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" sideWeight="0.49570817" weight="0.44509518" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50429183" side_tool="true" weight="0.45347467" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3293979" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49785408" weight="0.45534408" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Hybris Console" order="17" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Structure" order="6" weight="0.25" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.5308311" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/Templates/TestStringReverse.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/thread/Test3.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/Templates/ReadWriteLockDemo.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/Templates/ReadWriteLockDemo.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/Templates/ReadWriteLockDemo.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructure/src/com/atguigu/sparsearray/sparsearray.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructure/src/com/atguigu/sparsearray/sparsearray.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructure/src/com/atguigu/linkedlist/SingleLinkedListDemo.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructure/src/com/atguigu/linkedlist/SingleLinkedListDemo.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructure/src/com/atguigu/linkedlist/SingleLinkedListDemo.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/atguigu/sparsearray/sparsearray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsp/src/main/java/com/example/demo/Copy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/atguigu/queue/ArrayQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/atguigu/queue/CirCleArrayQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/atguigu/linkedlist/SingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="263" column="32" selection-start-line="263" selection-start-column="32" selection-end-line="263" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/SingletonDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="115" column="33" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/study/enums.java" />
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/VolatilDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ABADemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ReenterLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1476">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/SpinLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ReadWriteLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1998">
+          <caret line="157" column="29" selection-start-line="157" selection-start-column="29" selection-end-line="157" selection-end-column="29" />
+          <folding>
+            <element signature="e#4021#4022#0" expanded="true" />
+            <element signature="e#4085#4086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5616">
+          <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://E:/Server/RepMaven/org/projectlombok/lombok/1.16.20/lombok-1.16.20.jar!/lombok/Getter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Server/RepMaven/org/projectlombok/lombok/1.16.20/lombok-1.16.20-sources.jar!/lombok/Getter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/enums/CountryEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>concurrent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
