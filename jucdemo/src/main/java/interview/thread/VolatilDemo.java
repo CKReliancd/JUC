@@ -19,6 +19,27 @@ import java.util.concurrent.atomic.AtomicInteger;
  *      * 加上sysn
  *      * 使用aotomic
  */
+class MyData {
+    volatile int number = 0;
+
+    public int addT060() {
+        this.number = 60;
+        return number;
+    }
+
+    /**
+     * 请注意，此时number前面是加了volatile关键字修饰的
+     */
+    public synchronized void addPlusPlus() {
+        number++;
+    }
+
+    AtomicInteger atomicInteger = new AtomicInteger();
+
+    public void addMyAtomic(){
+        atomicInteger.getAndIncrement();
+    }
+}
 public class VolatilDemo {
     public static void main(String[] args) {
 
@@ -72,26 +93,4 @@ public class VolatilDemo {
         System.out.println(Thread.currentThread().getName() + "\t mission is over");
     }
 
-}
-
-class MyData {
-    volatile int number = 0;
-
-    public int addT060() {
-        this.number = 60;
-        return number;
-    }
-
-    /**
-     * 请注意，此时number前面是加了volatile关键字修饰的
-     */
-    public synchronized void addPlusPlus() {
-        number++;
-    }
-
-    AtomicInteger atomicInteger = new AtomicInteger();
-
-    public void addMyAtomic(){
-        atomicInteger.getAndIncrement();
-    }
 }
