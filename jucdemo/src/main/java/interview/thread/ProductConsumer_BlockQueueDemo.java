@@ -12,6 +12,7 @@ class Resource{
 
 
     BlockingQueue<String> blockingQueue = null;
+
     public Resource( BlockingQueue<String> blockingQueue) {
         this.blockingQueue = blockingQueue;
         System.out.println(blockingQueue.getClass().getName());
@@ -36,10 +37,8 @@ class Resource{
     public void cunsumer()throws Exception{
         String result = null;
         while (FLAG){
-            result = blockingQueue.poll(4,TimeUnit.SECONDS);
+            result = blockingQueue.poll(2,TimeUnit.SECONDS);
             if (null == result || result.equalsIgnoreCase("")){
-                System.out.println("大老板叫停Prod之后，在Consumer里的false值 = "+false);
-                FLAG = false;
                 System.out.println(Thread.currentThread().getName()+"\t4秒都没有取到蛋糕，退出");
                 return;
             }
