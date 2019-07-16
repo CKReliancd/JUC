@@ -10,21 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c00175e-2286-485f-8771-62d6e5900616" name="Default" comment="juc">
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewBlockQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewContainerNotSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewCountDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewCyclicBarrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewProAndCon_BlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewReadWriteLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewReentranLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewSemaphore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewSpinLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewSynchAndReetrantLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewTraditional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/HelloGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/SoftReferenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/StrongReferenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/WeakReferenceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewDeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/GCRootsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ProductConsumer_BlockQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ProductConsumer_BlockQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/TestTransferValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/TestTransferValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/MyThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/MyThreadPoolDemo.java" afterDir="false" />
     </list>
     <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/java180228/target/" />
     <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/juc_demo/target/" />
@@ -64,42 +58,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewProAndCon_BlockingQueue.java">
+        <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/WeakReferenceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="49" column="36" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ProductConsumer_BlockQueueDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="44" column="89" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="89" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
-              <folding>
-                <element signature="e#1762#1763#0" expanded="true" />
-                <element signature="e#1798#1799#0" expanded="true" />
-                <element signature="e#2032#2033#0" expanded="true" />
-                <element signature="e#2060#2061#0" expanded="true" />
-                <element signature="e#4021#4022#0" expanded="true" />
-                <element signature="e#4085#4086#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="234">
+              <caret line="13" lean-forward="true" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -132,7 +94,12 @@
       <find>calendar</find>
       <find>compareAndSwapInt</find>
       <find>put</find>
+      <find>execute</find>
+      <find>MyIOThreadPool</find>
     </findStrings>
+    <replaceStrings>
+      <replace>IOThreadPool</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -141,13 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="E:/Server/RepMaven/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/BeanUtils.class" />
-        <option value="$PROJECT_DIR$/DataStructures/src/com/atguigu/sparsearray/sparsearray.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/sparsearray/sparsearray.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/queue/ArrayQueueDemo.java" />
-        <option value="$PROJECT_DIR$/jsp/src/main/java/com/example/demo/Copy.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/queue/CirCleArrayQueueDemo.java" />
-        <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/linkedlist/SingleLinkedList.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/Interview/study/thread/VolatilDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/study/thread/VolatilDemo.java" />
@@ -170,7 +130,6 @@
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ProdConsumer_TraditionDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/SyncAndReentrantLockDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/CallableDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/MyThreadPoolDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/DeadLockDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/VolatilDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewVolatile.java" />
@@ -192,6 +151,14 @@
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewSynchAndReetrantLock.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ProductConsumer_BlockQueueDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewProAndCon_BlockingQueue.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewCallable.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/MyThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewDeadLock.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/GCRootsDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/HelloGC.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/StrongReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/SoftReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/WeakReferenceDemo.java" />
       </list>
     </option>
   </component>
@@ -238,10 +205,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="126" />
-    <option name="y" value="62" />
-    <option name="width" value="1025" />
-    <option name="height" value="730" />
+    <option name="x" value="760" />
+    <option name="y" value="-3" />
+    <option name="width" value="1165" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -251,7 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -303,7 +269,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
@@ -313,19 +279,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="ProdConsumer_TraditionDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="ProductConsumer_BlockQueueDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="ref" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
@@ -340,6 +295,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,7 +309,7 @@
     <property name="project.structure.proportion" value="0.15482695" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -386,7 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReviewProAndCon_BlockingQueue">
+  <component name="RunManager" selected="Application.WeakReferenceDemo">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -395,13 +351,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdConsumer_TraditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.thread.ProdConsumer_TraditionDemo" />
+    <configuration name="HelloGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.jvm.gc.HelloGC" />
       <module name="jucdemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails -XX:+UseSerialGC -Xms10m -Xmx10m -XX:SurvivorRatio=4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.thread.*" />
+          <option name="PATTERN" value="interview.jvm.gc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,22 +365,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductConsumer_BlockQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.thread.ProductConsumer_BlockQueueDemo" />
-      <module name="jucdemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReviewProAndCon_BlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.review.ReviewProAndCon_BlockingQueue" />
+    <configuration name="ReviewDeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.review.ReviewDeadLock" />
       <module name="jucdemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -437,13 +379,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReviewSynchAndReetrantLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.review.ReviewSynchAndReetrantLock" />
+    <configuration name="SoftReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.jvm.ref.SoftReferenceDemo" />
       <module name="jucdemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="-Xms5m -Xmx5m -XX:+PrintGCDetails" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.review.*" />
+          <option name="PATTERN" value="interview.jvm.ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -451,13 +393,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReviewTraditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.review.ReviewTraditional" />
+    <configuration name="StrongReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.jvm.ref.StrongReferenceDemo" />
       <module name="jucdemo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.review.*" />
+          <option name="PATTERN" value="interview.jvm.ref.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeakReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.jvm.ref.WeakReferenceDemo" />
+      <module name="jucdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.jvm.ref.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -573,21 +529,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ProdConsumer_TraditionDemo" />
-      <item itemvalue="Application.ReviewTraditional" />
+      <item itemvalue="Application.ReviewDeadLock" />
+      <item itemvalue="Application.HelloGC" />
+      <item itemvalue="Application.StrongReferenceDemo" />
+      <item itemvalue="Application.SoftReferenceDemo" />
+      <item itemvalue="Application.WeakReferenceDemo" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.ConcurrentApplication" />
-      <item itemvalue="Application.ReviewSynchAndReetrantLock" />
-      <item itemvalue="Application.ReviewProAndCon_BlockingQueue" />
-      <item itemvalue="Application.ProductConsumer_BlockQueueDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReviewProAndCon_BlockingQueue" />
-        <item itemvalue="Application.ProductConsumer_BlockQueueDemo" />
-        <item itemvalue="Application.ReviewSynchAndReetrantLock" />
-        <item itemvalue="Application.ReviewTraditional" />
-        <item itemvalue="Application.ProdConsumer_TraditionDemo" />
+        <item itemvalue="Application.WeakReferenceDemo" />
+        <item itemvalue="Application.SoftReferenceDemo" />
+        <item itemvalue="Application.StrongReferenceDemo" />
+        <item itemvalue="Application.HelloGC" />
+        <item itemvalue="Application.ReviewDeadLock" />
       </list>
     </recent_temporary>
   </component>
@@ -669,7 +625,10 @@
       <workItem from="1562467632503" duration="5211000" />
       <workItem from="1562565440264" duration="14131000" />
       <workItem from="1562658536524" duration="11273000" />
-      <workItem from="1562678423281" duration="5566000" />
+      <workItem from="1562678423281" duration="15473000" />
+      <workItem from="1562841063185" duration="1009000" />
+      <workItem from="1563001363082" duration="6703000" />
+      <workItem from="1563073912544" duration="9895000" />
     </task>
     <task id="LOCAL-00001" summary="juc">
       <created>1561949246582</created>
@@ -699,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562036882983</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="juc">
+      <created>1562728809592</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562728809592</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -735,7 +701,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219084000" />
+    <option name="totallyTimeSpent" value="246598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -747,26 +713,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="609" y="-1" width="932" height="838" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49853373" visible="true" weight="0.21447721" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49706745" weight="0.31693363" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.5014663" side_tool="true" weight="0.22386059" />
+      <window_info id="Favorites" order="4" sideWeight="0.50293255" side_tool="true" weight="0.21447721" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Web" order="6" sideWeight="0.5014663" side_tool="true" weight="0.22386059" />
+      <window_info id="Web" order="6" sideWeight="0.50293255" side_tool="true" weight="0.21447721" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.74486804" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.72036475" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44428152" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" sideWeight="0.49570817" weight="0.44509518" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.61876833" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.9560117" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.9560117" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.47067448" />
@@ -855,227 +820,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/SynchronousQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/SyncAndReentrantLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.Future">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.Future</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="47.0" y="14.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/concurrent/Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/CallableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="32" column="9" lean-forward="true" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.lang.Thread">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.lang.Thread</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.concurrent.RunnableFuture</node>
-            <node x="" y="">java.lang.Thread</node>
-            <node x="" y="">java.util.concurrent.FutureTask</node>
-            <node x="" y="">java.lang.Runnable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="99.0" y="-5.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Constructors</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.Executor">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.Executor</OriginalElement>
-          <nodes>
-            <node x="-298.0" y="-63.0">java.util.concurrent.AbstractExecutorService</node>
-            <node x="-278.0" y="15.0">java.util.concurrent.ThreadPoolExecutor</node>
-            <node x="-111.0" y="-219.0">java.util.concurrent.Executor</node>
-            <node x="-48.0" y="-63.0">java.util.concurrent.ScheduledExecutorService</node>
-            <node x="-187.0" y="93.0">java.util.concurrent.ScheduledThreadPoolExecutor</node>
-            <node x="0.0" y="385.0">org.apache.ibatis.javassist.bytecode.analysis.Executor</node>
-            <node x="-139.0" y="-141.0">java.util.concurrent.ExecutorService</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.concurrent.AbstractExecutorService" target="java.util.concurrent.ExecutorService">
-              <point x="0.0" y="-14.0" />
-              <point x="-183.0" y="-88.0" />
-              <point x="-97.5" y="-88.0" />
-              <point x="-41.5" y="14.0" />
-            </edge>
-            <edge source="java.util.concurrent.ScheduledThreadPoolExecutor" target="java.util.concurrent.ThreadPoolExecutor">
-              <point x="-65.5" y="-14.0" />
-              <point x="-121.5" y="68.0" />
-              <point x="-183.0" y="68.0" />
-              <point x="0.0" y="14.0" />
-            </edge>
-            <edge source="java.util.concurrent.ExecutorService" target="java.util.concurrent.Executor">
-              <point x="0.0" y="-14.0" />
-              <point x="0.0" y="14.0" />
-            </edge>
-            <edge source="java.util.concurrent.ScheduledThreadPoolExecutor" target="java.util.concurrent.ScheduledExecutorService">
-              <point x="65.5" y="-14.0" />
-              <point x="9.5" y="68.0" />
-              <point x="71.0" y="68.0" />
-              <point x="0.0" y="14.0" />
-            </edge>
-            <edge source="java.util.concurrent.ThreadPoolExecutor" target="java.util.concurrent.AbstractExecutorService">
-              <point x="0.0" y="-14.0" />
-              <point x="0.0" y="14.0" />
-            </edge>
-            <edge source="java.util.concurrent.ScheduledExecutorService" target="java.util.concurrent.ExecutorService">
-              <point x="0.0" y="-14.0" />
-              <point x="71.0" y="-88.0" />
-              <point x="-14.5" y="-88.0" />
-              <point x="41.5" y="14.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-451.0" y="-16.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.Executors">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.Executors</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.concurrent.Executors</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="59.0" y="14.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/MyThreadPoolDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3132">
-          <caret line="215" column="31" selection-start-line="215" selection-start-column="31" selection-end-line="215" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22428">
-          <caret line="1303" column="16" selection-start-line="1303" selection-start-column="16" selection-end-line="1303" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/concurrent/Executor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1908">
-          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/DeadLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/VolatilDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/SingleTonDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="115" column="31" lean-forward="true" selection-start-line="115" selection-start-column="31" selection-end-line="115" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/CASDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../Java/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1382,11 +1126,169 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewProAndCon_BlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="49" column="36" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="36" />
+        <state relative-caret-position="343">
+          <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="215" column="29" lean-forward="true" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/concurrent/RejectedExecutionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="2034" column="15" selection-start-line="2034" selection-start-column="15" selection-end-line="2034" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="634" column="22" selection-start-line="634" selection-start-column="22" selection-end-line="634" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/MyThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/DeadLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/GCRootsDemo2.java" />
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewDeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/GCRootsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.Object">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Object</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.Object</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="47.0" y="14.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/HelloGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/java.lang.ref.Reference">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.ref.Reference</OriginalElement>
+          <nodes>
+            <node x="340.0" y="156.0">java.lang.ref.PhantomReference</node>
+            <node x="186.0" y="78.0">java.lang.ref.Reference</node>
+            <node x="198.0" y="0.0">java.lang.Object</node>
+            <node x="0.0" y="156.0">java.lang.ref.SoftReference</node>
+            <node x="170.0" y="156.0">java.lang.ref.WeakReference</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.lang.ref.WeakReference" target="java.lang.ref.Reference">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.ref.Reference" target="java.lang.Object">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.ref.PhantomReference" target="java.lang.ref.Reference">
+              <point x="0.0" y="-14.0" />
+              <point x="427.0" y="131.0" />
+              <point x="284.33333333333337" y="131.0" />
+              <point x="39.33333333333337" y="14.0" />
+            </edge>
+            <edge source="java.lang.ref.SoftReference" target="java.lang.ref.Reference">
+              <point x="0.0" y="-14.0" />
+              <point x="75.0" y="131.0" />
+              <point x="205.66666666666666" y="131.0" />
+              <point x="-39.33333333333334" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-447.0" y="-61.0" />
+          <SelectedNodes>
+            <node>java.lang.ref.Reference</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/StrongReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/SoftReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="11" selection-start-line="11" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/WeakReferenceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-end-line="20" />
         </state>
       </provider>
     </entry>

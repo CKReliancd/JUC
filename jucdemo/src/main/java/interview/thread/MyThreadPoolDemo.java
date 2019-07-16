@@ -1,8 +1,6 @@
 package interview.thread;
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 /**
  * @auther reliance
@@ -12,13 +10,50 @@ import java.util.concurrent.TimeUnit;
 public class MyThreadPoolDemo {
     public static void main(String[] args) {
 
+        System.out.println(Runtime.getRuntime().availableProcessors());
 
+        int availableProcessors = Runtime.getRuntime().availableProcessors();
+        double blockage_coefficient = 0.9;
 
+        ExecutorService CPUThreadPool = new ThreadPoolExecutor(
+                availableProcessors,
+                availableProcessors,
+                1L,
+                TimeUnit.SECONDS,
+                new LinkedBlockingDeque<>(3),
+                Executors.defaultThreadFactory(),
+                new ThreadPoolExecutor.DiscardPolicy()
+        );
 
+        ExecutorService IOThreadPool = new ThreadPoolExecutor(
+                (int)(availableProcessors / (1 - blockage_coefficient)),
+                (int)(availableProcessors / (1 - blockage_coefficient)),
+                1L,
+                TimeUnit.SECONDS,
+                new LinkedBlockingDeque<>(3),
+                Executors.defaultThreadFactory(),
+                new ThreadPoolExecutor.DiscardPolicy()
+        );
 
+        try {
+            for (int i = 0; i < 10; i++) {
+                CPUThreadPool.execute(() -> {
+                    System.out.println(Thread.currentThread().getName() + "\t CPU运算");
+                    try{TimeUnit.MILLISECONDS.sleep(200);}catch (Exception e){e.printStackTrace();}
+                });
+            }
 
-
-
+            for (int i = 0; i < 10; i++) {
+                IOThreadPool.execute(() -> {
+                    System.out.println(Thread.currentThread().getName() + "\t ###IO运算");
+                });
+            }
+        }catch (Exception e){
+            e.printStackTrace();
+        }finally{
+            CPUThreadPool.shutdown();
+            IOThreadPool.shutdown();
+        }
 
 
 
@@ -34,16 +69,19 @@ public class MyThreadPoolDemo {
 
         try {
             for (int i = 0; i < 10; i++) {
-                threadPool.submit(()->{
-                    System.out.println(Thread.currentThread().getName()+"\t 窗口办理业务");
+                threadPool.submit(() -> {
+                    System.out.println(Thread.currentThread().getName() + "\t 窗口办理业务");
 
                 });
-                try{
-                    TimeUnit.MILLISECONDS.sleep(200);}catch (Exception e){e.printStackTrace();}
+                try {
+                    TimeUnit.MILLISECONDS.sleep(200);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
             }
-        }catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
-        }finally{
+        } finally {
             threadPool.shutdown();
         }
     }
