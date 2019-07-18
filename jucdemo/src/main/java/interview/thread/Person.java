@@ -1,5 +1,8 @@
 package interview.thread;
 
+import lombok.Getter;
+
+@Getter
 public class Person {
 
     private Integer id;
