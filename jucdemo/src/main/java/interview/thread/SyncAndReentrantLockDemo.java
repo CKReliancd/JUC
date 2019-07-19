@@ -108,6 +108,11 @@ public class SyncAndReentrantLockDemo {
             },"CC").start();
         }
 
+        for (int i = 1; i <= 10; i++) {
+            new Thread(()->{
+
+            },String.valueOf(i)).start();
+        }
 
     }
 }

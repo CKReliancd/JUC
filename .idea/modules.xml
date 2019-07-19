@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/juc.iml" filepath="$PROJECT_DIR$/.idea/juc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jucdemo/jucdemo.iml" filepath="$PROJECT_DIR$/jucdemo/jucdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2019/springboot2019.iml" filepath="$PROJECT_DIR$/springboot2019/springboot2019.iml" />
     </modules>
   </component>
 </project>

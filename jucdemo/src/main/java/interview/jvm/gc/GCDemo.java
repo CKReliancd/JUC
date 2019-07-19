@@ -12,6 +12,20 @@ import java.util.Random;
  * and will likely be removed in a future release
  * <p>
  * 3、-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseParallelGC     (PSYoungGen+ParOldGen)
+
+ * 4
+ * 4.1 -Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseParalleOldGC   (PSYoungGen+ParOldGen)
+ * 4.2 不加就是默认UseParallelGC
+ * -Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseParalleOldG        (PSYoungGen+ParOldGen)
+ *
+ * 5 -Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseConcMarkSweepGC  (par new generation + concurrent Mark+Sweep)
+ *
+ * 6 -Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseG1GC
+ *
+ * 实际中被优化掉了
+ * 7 -Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseSerialOldGC
+ *
+ *
  */
 
 public class GCDemo {
