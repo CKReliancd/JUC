@@ -3,10 +3,10 @@ package interview.jvm.gc;
 public class HelloGC {
     public static void main(String[] args) throws InterruptedException {
 
-//        System.out.println("Javaè™šæ‹Ÿæœºä¸­çš„å†…å­˜æ€»é‡:\t TOTAL_MEMORY(-Xms) = "+Runtime.getRuntime().totalMemory()+"(å­—èŠ‚)ã€"
+//        System.out.println("JavaĞéÄâ»úÖĞµÄÄÚ´æ×ÜÁ¿:\t TOTAL_MEMORY(-Xms) = "+Runtime.getRuntime().totalMemory()+"(×Ö½Ú)¡¢"
 //                        + (Runtime.getRuntime().totalMemory()/(double)1024/1024)+"MB");
 //
-//        System.out.println("Javaè™šæ‹Ÿæœºè¯•å›¾ä½¿ç”¨çš„æœ€å¤§å†…å­˜é‡\t MAX_MEMORY(-Xmx) = "+Runtime.getRuntime().maxMemory()+"(å­—èŠ‚)ã€"
+//        System.out.println("JavaĞéÄâ»úÊÔÍ¼Ê¹ÓÃµÄ×î´óÄÚ´æÁ¿\t MAX_MEMORY(-Xmx) = "+Runtime.getRuntime().maxMemory()+"(×Ö½Ú)¡¢"
 //                        + (Runtime.getRuntime().maxMemory()/(double)1024/1024)+"MB");
 //        byte[] byteArray = new byte[50*1024*1024];
 

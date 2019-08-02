@@ -1,5 +1,6 @@
 package interview.jvm.ref;
 
+import java.lang.ref.ReferenceQueue;
 import java.lang.ref.SoftReference;
 
 public class SoftReferenceDemo {
@@ -10,7 +11,9 @@ public class SoftReferenceDemo {
     public static void softRef_Memory_Enough(){
 
         Object o1 = new Object();
+
         SoftReference<Object> softReference = new SoftReference<>(o1);
+
         System.out.println(o1);
         System.out.println(softReference.get());
 
@@ -28,7 +31,8 @@ public class SoftReferenceDemo {
     public static void softRef_Memory_NotEnough(){
 
         Object o1 = new Object();
-        SoftReference<Object> softReference = new SoftReference<>(o1);
+        ReferenceQueue<Object> referenceQueue = new ReferenceQueue<>();
+        SoftReference<Object> softReference = new SoftReference<>(o1,referenceQueue);
         System.out.println(o1);
         System.out.println(softReference.get());
 
@@ -41,6 +45,7 @@ public class SoftReferenceDemo {
         }finally{
             System.out.println(o1);
             System.out.println(softReference.get());
+            System.out.println(referenceQueue.poll());
         }
 
 

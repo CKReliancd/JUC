@@ -3,7 +3,9 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/concurrency" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/HelloGC.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ProductConsumer_BlockQueueDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2019" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
