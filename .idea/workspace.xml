@@ -14,16 +14,10 @@
       <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_unknown.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datastruct/datastruct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/datastruct.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datastruct/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkeListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkeListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jucdemo/jucdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jucdemo/jucdemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jucdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jucdemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jucdemo/src/main/java/thread/TestAtomicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jucdemo/src/main/java/thread/TestAtomicDemo.java" afterDir="false" />
     </list>
     <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/java180228/target/" />
     <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/juc_demo/target/" />
@@ -697,7 +691,7 @@
       <workItem from="1565018634123" duration="1770000" />
       <workItem from="1565225042567" duration="95000" />
       <workItem from="1565322471732" duration="82000" />
-      <workItem from="1565493662365" duration="3784000" />
+      <workItem from="1565493662365" duration="4162000" />
     </task>
     <task id="LOCAL-00001" summary="juc">
       <created>1561949246582</created>
@@ -755,7 +749,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563428619680</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="juc">
+      <created>1565507220530</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1565507220530</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -791,7 +792,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="325278000" />
+    <option name="totallyTimeSpent" value="325656000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -806,7 +807,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4941349" weight="0.51532036" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4941349" visible="true" weight="0.20576407" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
