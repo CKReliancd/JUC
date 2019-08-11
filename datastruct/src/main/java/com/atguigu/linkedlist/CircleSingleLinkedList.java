@@ -1,9 +1,122 @@
 package com.atguigu.linkedlist;
 
+/**
+ * 环形队列解决约瑟夫问题
+ */
 public class CircleSingleLinkedList {
 
     //定义一个初始的头节点
     private Boy first = new Boy(0);
+
+    /**
+     * 根据用户的输入，计算小孩的出圈顺序
+     *
+     * @param startNo  从几号开始
+     * @param countNum 数几下
+     * @param nums     圈里共有多少人
+     */
+    public void countBoy(int startNo, int countNum, int nums) {
+
+        //先对数据进行校验
+        if (first.getNext() == null || startNo <1||startNo > nums){
+            System.out.println("输入的数据有误");
+            return;
+        }
+        
+        //1)创建辅助指针，帮助出圈
+        Boy helper = first;
+
+        //需求：创建一个辅助变量helper，事先应该指向环形链表的最后一个节点
+        while (true){
+            if (helper.getNext() == first){
+                break;
+            }
+            helper = helper.getNext();
+        }
+
+        //2)小孩报数之前，先让first和helper移动 startNo-1次
+        for (int i = 0; i < startNo-1; i++) {
+            first = first.getNext();
+            helper = helper.getNext();
+        }
+
+        //3)小孩报数时，让first和helper指针同时移动m-1次，first指向要出圈的节点，然后出圈，
+        while (true){
+
+            //这是循环操作，直到圈中只有一个节点
+            if (helper == first){
+                break;
+            }
+
+            //让first和helper指针同时移动countNum - 1
+            for (int i = 0; i < countNum - 1; i++) {
+                first = first.getNext();
+                helper = helper.getNext();
+            }
+
+            //这时first指向的节点，就是要出圈的节点
+            System.out.printf("小孩%d 出圈\n",first.getNo());
+
+            //这时将first指向的小孩的节点出圈
+            first = first.getNext();
+            helper.setNext(first);
+
+        }
+        System.out.printf("圈中最后一个节点 %d\n",first.getNo());
+
+    }
+
+    public void countBoy2(int startNo, int countNum, int nums) {
+        // 对参数进行判断
+        if (first == null || startNo < 1 || startNo > nums) {
+            System.out.println("参数有误，重新输入!");
+            return;
+        }
+        // 完成游戏的思路
+        /*
+         * 完成游戏的思路分析->实现代码
+         *
+         * 1) 在first 前面 设计一个辅助指针（helper） , 即将helper 指针定位到 first 前面 2) 将first
+         * 指针移动到 startNo 这个小孩(helper 对应移动) 3) 开始数 countNum 个数[first 和 helper
+         * 会对应的移动] 4) 删除first 指向的这个小孩节点 5) 思路
+         *
+         */
+        Boy helper = first;
+        // 1)即将helper 指针定位到 first 前面
+        while (true) {
+            if (helper.getNext() == first) {
+                break;
+            }
+            helper = helper.getNext();
+        }
+        // 2)将first 指针移动到 startNo 这个小孩(helper 对应移动)
+        for (int j = 0; j < startNo - 1; j++) {
+            first = first.getNext();
+            helper = helper.getNext();
+        }
+        // 开始数数，按照给定的值，每数到一个小孩就出圈, 直到环形链表只有一个节点
+        while (true) {
+            if (helper == first) {
+                // 只有一个人
+                break;
+            }
+            // 3) 开始数 countNum 个数[first 和 helper 会对应的移动]
+            for (int j = 0; j < countNum - 1; j++) {// 3
+                first = first.getNext();
+                helper = helper.getNext();
+            }
+            // 输出出圈的人的信息
+            System.out.printf("小孩%d出圈\n", first.getNo());
+            // 将first 指向的节点删除
+            first = first.getNext();
+            helper.setNext(first);
+
+        }
+        // 当while结束后, 只有一个人
+        System.out.printf("最后留在圈的人是 小孩编号为 %d\n", first.getNo());
+
+    }
+
 
     /**
      * 形成一个单向环形的链表,num表示有几个小孩
@@ -36,53 +149,25 @@ public class CircleSingleLinkedList {
     /**
      * 遍历单向的环形链表
      */
-    public void showBoy(){
-        if (first.getNext() == null){
+    public void showBoy() {
+        if (first.getNext() == null) {
             System.out.println("环形链表没有任何数据");
             return;
         }
 
         Boy curBoy = first;
 
-        while (true){
+        while (true) {
 
-            System.out.printf("小孩编号 %d\n" , curBoy.getNo());
+            System.out.printf("小孩编号 %d\n", curBoy.getNo());
 
-            if (curBoy.getNext() == first){
+            if (curBoy.getNext() == first) {
                 break;
             }
 
             curBoy = curBoy.getNext();
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }

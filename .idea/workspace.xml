@@ -10,14 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c00175e-2286-485f-8771-62d6e5900616" name="Default" comment="juc">
-      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/StackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastruct/datastruct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/datastruct.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastruct/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkeListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkeListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" afterDir="false" />
     </list>
     <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/java180228/target/" />
     <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/juc_demo/target/" />
@@ -61,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="252">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -70,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="162">
+              <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -231,9 +227,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="967" />
+    <option name="x" value="946" />
     <option name="y" value="-5" />
-    <option name="width" value="963" />
+    <option name="width" value="984" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -244,7 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,6 +308,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,7 +317,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/datastruct/src/main/java" />
+    <property name="last_opened_file_path" value="E:/BaiduNetdiskDownload/尚硅谷-韩顺平图解Java数据结构和算法/代码/DataStructures" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15482695" />
@@ -558,10 +554,10 @@
       <item itemvalue="Application.SingleLinkeListDemo" />
       <item itemvalue="Application.StackTest" />
       <item itemvalue="Application.Child" />
+      <item itemvalue="Application.Josephu" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.ConcurrentApplication" />
       <item itemvalue="Spring Boot.Springboot2019Application" />
-      <item itemvalue="Application.Josephu" />
     </list>
     <recent_temporary>
       <list>
@@ -691,7 +687,8 @@
       <workItem from="1565018634123" duration="1770000" />
       <workItem from="1565225042567" duration="95000" />
       <workItem from="1565322471732" duration="82000" />
-      <workItem from="1565493662365" duration="4162000" />
+      <workItem from="1565493662365" duration="7728000" />
+      <workItem from="1565512009728" duration="3342000" />
     </task>
     <task id="LOCAL-00001" summary="juc">
       <created>1561949246582</created>
@@ -792,7 +789,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="325656000" />
+    <option name="totallyTimeSpent" value="332564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -807,7 +804,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4941349" visible="true" weight="0.20576407" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4941349" visible="true" weight="0.18230563" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -820,7 +817,7 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.49706745" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49865952" weight="0.5" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49865952" visible="true" weight="0.41055718" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.35253772" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" sideWeight="0.49570817" weight="0.44281524" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32844576" />
@@ -829,7 +826,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32921812" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.4692082" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32844576" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49785408" weight="0.3548387" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49785408" weight="0.35106382" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="16" />
       <window_info anchor="bottom" id="Hybris Console" order="17" weight="0.32921812" />
@@ -997,6 +994,12 @@
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/HelloGC.java</url>
           <line>3</line>
@@ -1159,12 +1162,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot2019/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/sparsearray/sparsearray.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1348,24 +1351,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datastruct/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/Formatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="2518" selection-start-line="2518" selection-end-line="2518" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1387,10 +1383,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="162">
+          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
         </state>
       </provider>
     </entry>
