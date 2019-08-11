@@ -1,5 +1,7 @@
 package thread;
 
+import org.springframework.ui.ModelMap;
+
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class TestAtomicDemo {
@@ -22,7 +24,7 @@ public class TestAtomicDemo {
             new Thread(ad).start();
             new Thread(ad).start();
 
-
+            new ModelMap();
 
     }
 }
