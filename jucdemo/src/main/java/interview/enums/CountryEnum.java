@@ -1,9 +1,6 @@
 package interview.enums;
 
 
-import lombok.Getter;
-import lombok.Setter;
-
 public enum CountryEnum {
 
     ONE(1, "齐"),
