@@ -6,11 +6,11 @@ public class Josephu {
         CircleSingleLinkedList circleSingleLinkedList = new CircleSingleLinkedList();
 
 
-        circleSingleLinkedList.addBoy(5);
+        circleSingleLinkedList.addBoy1(5);
 
         circleSingleLinkedList.showBoy();
 
-        circleSingleLinkedList.countBoy(1,2,5);
+        circleSingleLinkedList.countBoy4(1,2,5);
 
 
     }

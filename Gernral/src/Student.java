@@ -1,9 +1,35 @@
 public class Student {
 
     private String name;
-    private String old;
-    private String salary;
-    private String score;
+    private Integer old;
+    private Double salary;
+    private Double score;
+    private Status Status;
+
+    public enum Status {
+        FREE,
+        BUSY,
+        VOCATION
+    }
+
+    public Student(String name, Integer old, Double salary, Double score, Student.Status status) {
+        this.name = name;
+        this.old = old;
+        this.salary = salary;
+        this.score = score;
+        Status = status;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", old=" + old +
+                ", salary=" + salary +
+                ", score=" + score +
+                ", Status=" + Status +
+                '}';
+    }
 
     public String getName() {
         return name;
@@ -13,27 +39,37 @@ public class Student {
         this.name = name;
     }
 
-    public String getOld() {
+    public Integer getOld() {
         return old;
     }
 
-    public void setOld(String old) {
+    public void setOld(Integer old) {
         this.old = old;
     }
 
-    public String getSalary() {
+    public Double getSalary() {
         return salary;
     }
 
-    public void setSalary(String salary) {
+    public void setSalary(Double salary) {
         this.salary = salary;
     }
 
-    public String getScore() {
+    public Double getScore() {
         return score;
     }
 
-    public void setScore(String score) {
+    public void setScore(Double score) {
         this.score = score;
     }
+
+    public Student.Status getStatus() {
+        return Status;
+    }
+
+    public void setStatus(Student.Status status) {
+        Status = status;
+    }
 }
+
+
