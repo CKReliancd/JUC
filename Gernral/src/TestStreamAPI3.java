@@ -23,73 +23,65 @@ public class TestStreamAPI3 {
             new Student("张三", 18, 10000.00, 100.00, Student.Status.FREE),
             new Student("李四", 23, 11000.00, 99.00, Student.Status.BUSY),
             new Student("王五", 21, 12000.00, 88.00, Student.Status.FREE),
+            new Student("赵六", 22, 13000.00, 77.00, Student.Status.VOCATION),
             new Student("赵六", 22, 13000.00, 77.00, Student.Status.VOCATION)
     );
 
-    /**
-     * 收集
-     * collect——将流转换为其它形式。接受一个Collector接口的实现，用于给Stream中元素做汇总的方法
-     */
-
     @Test
-    public void testCollect2(){
+    public void testCollectGroupBy() {
 
+        Map<String, List<Student>> collect = studentList.stream()
+                .sorted(Comparator.comparing(Student::getOld))
+                .collect(Collectors.groupingBy((e) -> {
+                    if (((Student) e).getOld() < 22) {
+                        return "少年";
+                    } else if (((Student) e).getOld() == 22) {
+                        return "青年";
+                    } else if (((Student) e).getOld() > 22) {
+                        return "老年";
+                    }
+                    return null;
+                }));
+        collect.entrySet().stream().forEach(System.out::println);
 
     }
 
-
     @Test
-    public void testCollect(){
-        List<String> list = studentList.stream()
-                .map(Student::getName)
-                .collect(Collectors.toList());
+    public void testCollect() {
 
-        list.forEach(System.out::println);
+        //分组
+        Map<Student.Status, List<Student>> collect6 = studentList.stream()
+                .collect(Collectors.groupingBy(Student::getStatus));
 
-        System.out.println("=====================");
-        HashSet<String> hashSet = studentList.stream()
+        collect6.entrySet().stream().forEach(System.out::println);
+
+        Optional<Student> collect5 = studentList.stream()
+                .collect(Collectors.minBy(Comparator.comparingDouble(Student::getSalary)));
+        System.out.println(collect5);
+
+
+        Optional<Student> collect4 = studentList.stream()
+                .collect(Collectors.maxBy(Comparator.comparingDouble(Student::getSalary)));
+        System.out.println(collect4.get());
+
+
+        Double collect3 = studentList.stream().collect(Collectors.summingDouble(Student::getSalary));
+        System.out.println(collect3);
+
+
+        Double collect2 = studentList.stream()
+                .collect(Collectors.averagingDouble(Student::getSalary));
+        System.out.println(collect2);
+
+        HashSet<String> collect = studentList.stream()
                 .map(Student::getName)
                 .collect(Collectors.toCollection(HashSet::new));
 
-        hashSet.stream().forEach(System.out::println);
-
-        System.out.println("===========================");
-
-        //总数
-        Long count = studentList.stream()
-                .collect(Collectors.counting());
-        System.out.println(count);
-        System.out.println("+================");
-
-        //平均值
-        Double avg = studentList.stream()
-                .collect(Collectors.averagingDouble(Student::getSalary));
-        System.out.println(avg);
-
-        System.out.println("=================");
-        //总和
-        Double sum = studentList.stream()
-                .collect(Collectors.summingDouble(Student::getSalary));
-        System.out.println(sum);
-
-        System.out.println("+++++++++++++++++++++++++++");
-
-        //最大值
-        Optional<Student> max = studentList.stream()
-                .collect(Collectors.maxBy((e1, e2) -> Double.compare(e1.getSalary(), e2.getSalary())));
-
-        System.out.println(max.get());
-
-        System.out.println("+===========================");
-        //最小值
-        Optional<Double> min = studentList.stream()
-                .map(Student::getSalary)
-                .collect(Collectors.minBy(Double::compare));
-        System.out.println(min.get());
-
-
+        HashSet<Integer> collect1 = studentList.stream()
+                .map(Student::getOld)
+                .collect(Collectors.toCollection(HashSet::new));
+        collect1.forEach(System.out::println);
     }
-
 
     /**
      * 归约
@@ -107,10 +99,22 @@ public class TestStreamAPI3 {
 
         System.out.println("===========================");
 
-        Optional<Double> optionalR = studentList.stream()
+        Optional<Double> salaries = studentList.stream()
                 .map(Student::getSalary)
                 .reduce(Double::sum);
-        System.out.println(optionalR.get());
+
+        System.out.println(salaries.get());
+
+    }
+
+    /**
+     * 收集
+     * collect——将流转换为其它形式。接受一个Collector接口的实现，用于给Stream中元素做汇总的方法
+     */
+
+    @Test
+    public void testCollect2() {
+
 
     }
 
