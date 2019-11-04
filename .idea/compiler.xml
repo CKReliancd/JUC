@@ -7,12 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="juc_demo" />
+        <module name="datastruct" />
         <module name="jucdemo" />
         <module name="springboot2019" />
-        <module name="datastruct" />
-        <module name="concurrent" />
         <module name="jsp" />
-        <module name="juc_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +19,7 @@
       <module name="datastruct" target="1.8" />
       <module name="jsp" target="1.8" />
       <module name="jucdemo" target="1.8" />
+      <module name="servlet" target="1.8" />
       <module name="springboot2019" target="1.8" />
     </bytecodeTargetLevel>
   </component>

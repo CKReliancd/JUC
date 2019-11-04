@@ -3,17 +3,67 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ajax1:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewVolatile.java" line="22" />
     <bookmark url="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewAtomicReference.java" line="16" />
     <bookmark url="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewBlockQueue.java" line="17" />
+    <bookmark url="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java" line="23" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c00175e-2286-485f-8771-62d6e5900616" name="Default" comment="juc">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ajax1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ajax1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/ABADemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/AtomicReferenceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/CASDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/ContainerNotSafeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/ReenterLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/SingletonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/TestTransferValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/Animals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/ConnectionDispenser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/SafeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/ThisEscape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/ThreeStooges.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/VolatileCachedFactorizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/ConcurrentApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/net/examples/UnsafeSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/src/test/java/com/net/examples/ConcurrentApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastruct/datastruct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/datastruct.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspTest/jsp (1) (com.caokai.com).iml" beforeDir="false" />
     </list>
     <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/java180228/target/" />
     <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/juc_demo/target/" />
@@ -23,6 +73,8 @@
     <ignored path="$PROJECT_DIR$/concurrency/target/" />
     <ignored path="$PROJECT_DIR$/datastruct/target/" />
     <ignored path="$PROJECT_DIR$/springboot2019/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ajax/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,39 +107,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java">
+        <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+            <state relative-caret-position="396">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Boy.java">
+        <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStackDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="108">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gernral/src/TestStreamAPI2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-84">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1112">
+              <caret line="155" column="4" lean-forward="true" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/stream/Collectors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2916">
+              <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gernral/src/Copy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gernral/src/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="738">
+              <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -99,9 +209,11 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
@@ -133,32 +245,11 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/datastruct" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewSpinLock.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewReadWriteLock.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewEnum.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewCountDown.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewCyclicBarrier.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewSemaphore.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewBlockQueue.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewTraditional.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewSynchAndReetrantLock.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ProductConsumer_BlockQueueDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewProAndCon_BlockingQueue.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewCallable.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/MyThreadPoolDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewDeadLock.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/GCRootsDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/StrongReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/WeakReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/WeakHashMapDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/PhantomReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/StackOverflowErrorDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/JavaHeapSpaceDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/oom/GCOverheadDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/oom/DirectBufferMemoryDemo.java" />
         <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/oom/UnablCreateNewNativeThreadDemo.java" />
@@ -189,8 +280,36 @@
         <option value="$PROJECT_DIR$/datastruct/pom.xml" />
         <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" />
         <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" />
+        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ajax/WebContent/index.jsp" />
+        <option value="$PROJECT_DIR$/ajax/target/classes/index.jsp" />
+        <option value="$PROJECT_DIR$/ajax1/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/ajax1/web/index.jsp" />
+        <option value="$PROJECT_DIR$/ajax1/src/Hello.java" />
+        <option value="$PROJECT_DIR$/ajax/src/Hello.java" />
+        <option value="$PROJECT_DIR$/ajax/src/com/atguigu/servlet/GETInfoServlet.java" />
+        <option value="$PROJECT_DIR$/ajax/web/index.jsp" />
+        <option value="$PROJECT_DIR$/ajax/src/com/atguigu/servlet/HelloServlet.java" />
+        <option value="$PROJECT_DIR$/ajax/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Servlet/src/com/atguigu/servlet/HelloServlet.java" />
+        <option value="$PROJECT_DIR$/day06/src/com/atguigu/servlet/ConfigServlet.java" />
+        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStackDemo.java" />
+        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/Gernral/src/Copy.java" />
+        <option value="$PROJECT_DIR$/Gernral/src/TestStreamAPI2.java" />
+        <option value="$PROJECT_DIR$/Gernral/src/Student.java" />
+        <option value="$PROJECT_DIR$/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java" />
+        <option value="$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java" />
       </list>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -227,9 +346,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="946" />
+    <option name="x" value="785" />
     <option name="y" value="-5" />
-    <option name="width" value="984" />
+    <option name="width" value="1145" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -240,84 +359,62 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="juc" type="462c0819:PsiDirectoryNode" />
-              <item name="datastruct" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="E:/BaiduNetdiskDownload/尚硅谷-韩顺平图解Java数据结构和算法/代码/DataStructures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java8-day02" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15482695" />
@@ -326,22 +423,26 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\workspace\juc\jspTest\src\main\java\com" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\workspace\juc\ajax\web\lib" />
+      <recent name="C:\Program Files\workspace\juc\ajax\WebContent" />
+      <recent name="C:\Program Files\workspace\juc\ajax" />
+      <recent name="C:\Program Files\workspace\juc\datastruct\src\main\java" />
+      <recent name="C:\Program Files\workspace\juc\jucdemo\src\main\java\common" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.atguigu.sparsearray" />
       <recent name="entities" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Program Files\workspace\juc\datastruct\src\main\java" />
-      <recent name="C:\Program Files\workspace\juc\jucdemo\src\main\java\common" />
-      <recent name="D:\workspace\juc\jucdemo\src\main\java\interview\study\thread" />
-      <recent name="D:\workspace\juc\jsp\src\main\java\com\example\demo" />
-      <recent name="D:\workspace\juc\jucdemo\src\main\java\entities" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\workspace\juc" />
+      <recent name="C:\Program Files\workspace\juc\ajax\web\js" />
+      <recent name="C:\Program Files\workspace\juc\ajax\web\WEB-INF" />
+      <recent name="C:\Program Files\workspace\juc\ajax\web" />
+      <recent name="D:\workspace\juc\jspTest\src\main\java\com" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -356,7 +457,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Josephu">
+  <component name="RunManager" selected="Hybris Tests.TestStreamAPI3.testCollectGroupBy">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -365,78 +466,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="entities.Child" />
-      <module name="jucdemo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="entities.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="G1Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.jvm.gc.G1Demo" />
-      <module name="jucdemo" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseG1GC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.jvm.gc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Josephu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.linkedlist.Josephu" />
-      <module name="datastruct" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleLinkeListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.linkedlist.SingleLinkeListDemo" />
-      <module name="datastruct" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.linkedlist.StackTest" />
-      <module name="datastruct" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStreamAPI3.test7" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
+      <module name="java8-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java8" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java8.TestStreamAPI3" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStreamAPI3.test8" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
+      <module name="java8-day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java8" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java8.TestStreamAPI3" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStreamAPI3.testCollect" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
+      <module name="Gernral" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestStreamAPI3" />
+      <option name="METHOD_NAME" value="testCollect" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStreamAPI3.testCollectGroupBy" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
+      <module name="Gernral" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestStreamAPI3" />
+      <option name="METHOD_NAME" value="testCollectGroupBy" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStreamAPI3.testReduce" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
+      <module name="Gernral" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestStreamAPI3" />
+      <option name="METHOD_NAME" value="testReduce" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -478,13 +586,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat1" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ajax1_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ajax1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ajax1_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="_juc" />
       </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat" />
+      <predefined_log_file id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
@@ -538,6 +654,9 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ajax1:war exploded" />
+        </option>
       </method>
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
@@ -550,22 +669,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.G1Demo" />
-      <item itemvalue="Application.SingleLinkeListDemo" />
-      <item itemvalue="Application.StackTest" />
-      <item itemvalue="Application.Child" />
-      <item itemvalue="Application.Josephu" />
+      <item itemvalue="Hybris Tests.TestStreamAPI3.testCollect" />
+      <item itemvalue="Hybris Tests.TestStreamAPI3.test7" />
+      <item itemvalue="Hybris Tests.TestStreamAPI3.test8" />
+      <item itemvalue="Hybris Tests.TestStreamAPI3.testReduce" />
+      <item itemvalue="Hybris Tests.TestStreamAPI3.testCollectGroupBy" />
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.ConcurrentApplication" />
       <item itemvalue="Spring Boot.Springboot2019Application" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Josephu" />
-        <item itemvalue="Application.Child" />
-        <item itemvalue="Application.StackTest" />
-        <item itemvalue="Application.SingleLinkeListDemo" />
-        <item itemvalue="Application.G1Demo" />
+        <item itemvalue="Hybris Tests.TestStreamAPI3.testCollectGroupBy" />
+        <item itemvalue="Hybris Tests.TestStreamAPI3.testCollect" />
+        <item itemvalue="Hybris Tests.TestStreamAPI3.testReduce" />
+        <item itemvalue="Hybris Tests.TestStreamAPI3.test8" />
+        <item itemvalue="Hybris Tests.TestStreamAPI3.test7" />
       </list>
     </recent_temporary>
   </component>
@@ -688,7 +807,20 @@
       <workItem from="1565225042567" duration="95000" />
       <workItem from="1565322471732" duration="82000" />
       <workItem from="1565493662365" duration="7728000" />
-      <workItem from="1565512009728" duration="3342000" />
+      <workItem from="1565512009728" duration="4745000" />
+      <workItem from="1565663099981" duration="8039000" />
+      <workItem from="1565762683456" duration="596000" />
+      <workItem from="1565846573331" duration="306000" />
+      <workItem from="1565926015769" duration="701000" />
+      <workItem from="1565926983572" duration="1467000" />
+      <workItem from="1565937806756" duration="3014000" />
+      <workItem from="1566098377249" duration="725000" />
+      <workItem from="1566099553398" duration="3616000" />
+      <workItem from="1568535509580" duration="3118000" />
+      <workItem from="1571460845482" duration="52000" />
+      <workItem from="1571563358082" duration="10172000" />
+      <workItem from="1572792983868" duration="596000" />
+      <workItem from="1572877178012" duration="3649000" />
     </task>
     <task id="LOCAL-00001" summary="juc">
       <created>1561949246582</created>
@@ -757,39 +889,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="sparsearray_perfectIO - 2019.06.02 at 18h 49m 49s.xml">
-      <configuration name="sparsearray.perfectIO" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 40m 11s.xml">
+      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
     </history-entry>
-    <history-entry file="sparsearray_perfectIO - 2019.06.02 at 18h 49m 59s.xml">
-      <configuration name="sparsearray.perfectIO" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 42m 13s.xml">
+      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
     </history-entry>
-    <history-entry file="sparsearray_perfectIO - 2019.06.02 at 18h 56m 41s.xml">
-      <configuration name="sparsearray.perfectIO" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 43m 21s.xml">
+      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
     </history-entry>
-    <history-entry file="sparsearray_perfectIO - 2019.06.02 at 18h 57m 28s.xml">
-      <configuration name="sparsearray.perfectIO" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 43m 38s.xml">
+      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
     </history-entry>
-    <history-entry file="sparsearray_perfectInputStream - 2019.06.02 at 19h 04m 02s.xml">
-      <configuration name="sparsearray.perfectInputStream" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 51m 37s.xml">
+      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
     </history-entry>
-    <history-entry file="sparsearray_perfectInputStream - 2019.06.02 at 19h 04m 30s.xml">
-      <configuration name="sparsearray.perfectInputStream" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 51m 51s.xml">
+      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
     </history-entry>
-    <history-entry file="sparsearray_perfectOnputStream - 2019.06.02 at 19h 06m 10s.xml">
-      <configuration name="sparsearray.perfectOnputStream" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 52m 51s.xml">
+      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
     </history-entry>
-    <history-entry file="sparsearray_perfectOnputStream - 2019.06.02 at 19h 06m 35s.xml">
-      <configuration name="sparsearray.perfectOnputStream" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 23h 00m 36s.xml">
+      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
     </history-entry>
-    <history-entry file="sparsearray_testIO - 2019.06.02 at 14h 26m 48s.xml">
-      <configuration name="sparsearray.testIO" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollectGroupBy - 2019.11.04 at 23h 10m 40s.xml">
+      <configuration name="TestStreamAPI3.testCollectGroupBy" configurationId="HybrisTests" />
     </history-entry>
-    <history-entry file="sparsearray_testIO - 2019.06.02 at 14h 27m 05s.xml">
-      <configuration name="sparsearray.testIO" configurationId="JUnit" />
+    <history-entry file="TestStreamAPI3_testCollectGroupBy - 2019.11.04 at 23h 11m 58s.xml">
+      <configuration name="TestStreamAPI3.testCollectGroupBy" configurationId="HybrisTests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="332564000" />
+    <option name="totallyTimeSpent" value="370018000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -804,20 +936,20 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4941349" visible="true" weight="0.18230563" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48897058" visible="true" weight="0.1930295" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.5058651" side_tool="true" weight="0.29021448" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Web" order="6" sideWeight="0.5058651" side_tool="true" weight="0.29021448" />
+      <window_info id="Web" order="6" sideWeight="0.5110294" side_tool="true" weight="0.19571045" />
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.49706745" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49865952" visible="true" weight="0.41055718" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49865952" weight="0.3797654" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.35253772" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" sideWeight="0.49570817" weight="0.44281524" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32844576" />
@@ -826,13 +958,14 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32921812" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.4692082" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32844576" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49785408" weight="0.35106382" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49785408" weight="0.34604105" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="16" />
       <window_info anchor="bottom" id="Hybris Console" order="17" weight="0.32921812" />
       <window_info anchor="bottom" id="Dependency Viewer" order="18" weight="0.32991204" />
       <window_info anchor="bottom" id="Jelastic" order="19" />
       <window_info anchor="bottom" id="JRebel Console" order="20" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="21" weight="0.32991204" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Maven" order="1" weight="0.2386059" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -841,7 +974,7 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="right" id="Structure" order="7" weight="0.25" />
-      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3288835" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Bean Validation" order="11" weight="0.3297587" />
@@ -996,9 +1129,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java</url>
-          <line>83</line>
+          <line>172</line>
           <properties />
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Servlet/src/com/atguigu/servlet/GETInfoServlet.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/HelloGC.java</url>
@@ -1016,218 +1167,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewReferenceQueue.java" />
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewSoftReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewWeakReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/oom/GCOverheadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/oom/DirectBufferMemoryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/jre/lib/rt.jar!/sun/misc/VM.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1746">
-          <caret line="109" column="23" selection-start-line="109" selection-start-column="23" selection-end-line="109" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/lang/ref/WeakReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-          <folding>
-            <element signature="e#1456#1457#0" expanded="true" />
-            <element signature="e#1487#1488#0" expanded="true" />
-            <element signature="e#1898#1899#0" expanded="true" />
-            <element signature="e#1932#1933#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/lang/ref/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4176">
-          <caret line="263" column="16" selection-start-line="263" selection-start-column="16" selection-end-line="263" selection-end-column="16" />
-          <folding>
-            <element signature="e#9332#9333#0" expanded="true" />
-            <element signature="e#9368#9369#0" expanded="true" />
-            <element signature="e#9683#9684#0" expanded="true" />
-            <element signature="e#9719#9720#0" expanded="true" />
-            <element signature="e#10903#10904#0" expanded="true" />
-            <element signature="e#10939#10940#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/SoftReferenceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/PhantomReferenceDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewGCOverhead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/lang/ref/SoftReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1332">
-          <caret line="97" column="43" selection-start-line="97" selection-start-column="43" selection-end-line="97" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/ReferenceQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/HelloGC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/GCDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/atguigu/linkedlist/SingleLinkedListDemo.java" />
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/G1Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/hello.txt" />
-    <entry file="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" />
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/queue/ArrayQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2019/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/sparsearray/sparsearray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkeListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="43" column="103" selection-start-line="43" selection-start-column="103" selection-end-line="43" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/HeroNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/StackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/Templates/IUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/Templates/ReadWriteLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="32" lean-forward="true" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/proxy/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/proxy/CoalBoss.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -1365,9 +1304,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="269" column="27" selection-start-line="269" selection-start-column="27" selection-end-line="269" selection-end-column="27" />
+          <folding>
+            <element signature="method#countBoy4#0;class#CircleSingleLinkedList#0" />
+            <element signature="docComment;method#countBoy3#0;class#CircleSingleLinkedList#0" />
+            <element signature="method#countBoy3#0;class#CircleSingleLinkedList#0" />
+            <element signature="docComment;method#countBoy#0;class#CircleSingleLinkedList#0" />
+            <element signature="method#countBoy#0;class#CircleSingleLinkedList#0" />
+            <element signature="method#countBoy2#0;class#CircleSingleLinkedList#0" />
+            <element signature="method#addBoy1#0;class#CircleSingleLinkedList#0" />
+            <element signature="method#addBoy#0;class#CircleSingleLinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/web/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/springboot2019/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/WebContent/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/ajax/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/SpinLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewProAndCon_BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Boy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="216">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#119#120#0" expanded="true" />
@@ -1383,17 +1366,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java">
+    <entry file="file://$PROJECT_DIR$/Gernral/src/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        <state relative-caret-position="198">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/target/classes/index.jsp" />
+    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/WebContent/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/Servlet/web/js/jquery-1.9.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servlet/src/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servlet/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servlet/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servlet/src/com/atguigu/servlet/HelloServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servlet/src/com/atguigu/servlet/GETInfoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/src/com/atguigu/servlet/Context1.java" />
+    <entry file="file://$PROJECT_DIR$/day06/src/com/atguigu/servlet/ConfigServlet.java" />
+    <entry file="file://$PROJECT_DIR$/day06/WebContent/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2916">
+          <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gernral/src/Copy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gernral/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1112">
+          <caret line="155" column="4" lean-forward="true" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gernral/src/TestStreamAPI2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1460,12 +1593,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>datastruct</last-edited>
+          <last-edited>java8-day01</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
-                <option value="0.6" />
+                <option value="0.2032032" />
               </list>
             </option>
           </splitter-proportions>
