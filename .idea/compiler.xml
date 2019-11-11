@@ -7,11 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="juc_demo" />
-        <module name="datastruct" />
-        <module name="jucdemo" />
         <module name="springboot2019" />
+        <module name="datastruct" />
+        <module name="juc_demo" />
         <module name="jsp" />
+      </profile>
+      <profile name="Annotation profile for com.packging.juc" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jucdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
