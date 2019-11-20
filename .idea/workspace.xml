@@ -1,152 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="GROUP_BY_SEVERITY" value="true" />
-  </component>
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="ajax1:war exploded" />
-    </artifacts-to-build>
-  </component>
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewVolatile.java" line="22" />
-    <bookmark url="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewAtomicReference.java" line="16" />
-    <bookmark url="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewBlockQueue.java" line="17" />
-    <bookmark url="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java" line="23" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c00175e-2286-485f-8771-62d6e5900616" name="Default" comment="juc">
-      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ajax1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ajax1_war_exploded.xml" afterDir="false" />
+    <list default="true" id="02778244-9638-4f6d-bfb2-0cb085bfc27a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java8-day01/java8-day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/poi/ExcelExport3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Reliance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ajax1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/untitled_war_exploded.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Reliance.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/ABADemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/AtomicReferenceDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/CASDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/ContainerNotSafeDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/ReenterLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/SingletonDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/atguigu/interview/study/thread/TestTransferValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/Animals.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/ConnectionDispenser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/SafeListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/ThisEscape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/ThreeStooges.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/java/net/jcip/examples/VolatileCachedFactorizer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/ConcurrentApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/net/examples/UnsafeSequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/test/java/com/net/examples/ConcurrentApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/datastruct/datastruct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/datastruct.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jspTest/jsp (1) (com.caokai.com).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8-day01/java8-day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8-day01/java8-day01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8-day02/java8-day02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8-day02/java8-day02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jucdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jucdemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2019/springboot2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot2019/springboot2019.iml" afterDir="false" />
     </list>
-    <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/java180228/target/" />
-    <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/juc_demo/target/" />
-    <ignored path="$PROJECT_DIR$/jucdemo/target/" />
-    <ignored path="$PROJECT_DIR$/jsp/target/" />
-    <ignored path="$PROJECT_DIR$/jspTest/target/" />
-    <ignored path="$PROJECT_DIR$/concurrency/target/" />
-    <ignored path="$PROJECT_DIR$/datastruct/target/" />
-    <ignored path="$PROJECT_DIR$/springboot2019/target/" />
+    <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/ajax/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="juc" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java">
+        <entry file="file://$PROJECT_DIR$/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStackDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-              <folding>
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gernral/src/TestStreamAPI2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -154,243 +89,79 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-84">
-              <caret line="30" column="34" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="34" />
+            <state relative-caret-position="426">
+              <caret line="152" column="31" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1112">
-              <caret line="155" column="4" lean-forward="true" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/stream/Collectors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2916">
-              <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gernral/src/Copy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gernral/src/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Enum" />
-        <option value="Singleton" />
-        <option value="Class" />
-      </list>
-    </option>
-    <option name="SCHEME" value="Project" />
-  </component>
-  <component name="FindBugs-IDEA-Workspace">
-    <analyzeAfterCompile>true</analyzeAfterCompile>
-    <analyzeAfterAutoMake>true</analyzeAfterAutoMake>
-    <runInBackground>true</runInBackground>
-    <toolWindowGroupBy>Class</toolWindowGroupBy>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>compare</find>
-      <find>sgn</find>
-      <find>Comparator</find>
-      <find>initialValue</find>
-      <find>lastNumber</find>
-      <find>BigInteger</find>
-      <find>calendar</find>
-      <find>compareAndSwapInt</find>
-      <find>put</find>
-      <find>execute</find>
-      <find>MyIOThreadPool</find>
-      <find>private</find>
-      <find>temp</find>
+      <find>reduce</find>
     </findStrings>
-    <replaceStrings>
-      <replace>IOThreadPool</replace>
-      <replace>public</replace>
-      <replace>curNode</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/oom/GCOverheadDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/oom/DirectBufferMemoryDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/oom/UnablCreateNewNativeThreadDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/oom/MetaspaceOOMTest.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/HelloGC.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/Person.java" />
-        <option value="$PROJECT_DIR$/jucdemo/pom.xml" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/enums/CountryEnum.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/SyncAndReentrantLockDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/G1Demo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/GCDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewSoftReference.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewWeakReference.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewReferenceQueue.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/SoftReferenceDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewGCOverhead.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/ref/ReferenceQueueDemo.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkeList.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/sparsearray/sparsearray.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/HeroNode.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkedList.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkeListDemo.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/StackTest.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ContainerNotSafeDemo.java" />
-        <option value="$PROJECT_DIR$/jucdemo/src/main/java/thread/TestAtomicDemo.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Boy.java" />
-        <option value="$PROJECT_DIR$/datastruct/pom.xml" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ajax/WebContent/index.jsp" />
-        <option value="$PROJECT_DIR$/ajax/target/classes/index.jsp" />
-        <option value="$PROJECT_DIR$/ajax1/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/ajax1/web/index.jsp" />
-        <option value="$PROJECT_DIR$/ajax1/src/Hello.java" />
-        <option value="$PROJECT_DIR$/ajax/src/Hello.java" />
-        <option value="$PROJECT_DIR$/ajax/src/com/atguigu/servlet/GETInfoServlet.java" />
-        <option value="$PROJECT_DIR$/ajax/web/index.jsp" />
-        <option value="$PROJECT_DIR$/ajax/src/com/atguigu/servlet/HelloServlet.java" />
-        <option value="$PROJECT_DIR$/ajax/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/Servlet/src/com/atguigu/servlet/HelloServlet.java" />
-        <option value="$PROJECT_DIR$/day06/src/com/atguigu/servlet/ConfigServlet.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStackDemo.java" />
-        <option value="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java" />
-        <option value="$PROJECT_DIR$/Gernral/src/Copy.java" />
-        <option value="$PROJECT_DIR$/Gernral/src/TestStreamAPI2.java" />
-        <option value="$PROJECT_DIR$/Gernral/src/Student.java" />
-        <option value="$PROJECT_DIR$/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java" />
-        <option value="$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java" />
-      </list>
-    </option>
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../server/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="C:\Program Files\server\apache-maven-3.5.4\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-        <option name="vmOptionsForImporter" value="-Xmx1024m" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="datastruct" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="datastruct" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="785" />
+    <option name="x" value="946" />
     <option name="y" value="-5" />
-    <option name="width" value="1145" />
+    <option name="width" value="984" />
     <option name="height" value="1040" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="Gernral" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="Gernral" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
               <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
               <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
               <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
               <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
               <item name="java8" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -405,45 +176,21 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java8-day02" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gernral" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15482695" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Program Files\workspace\juc\ajax\web\lib" />
-      <recent name="C:\Program Files\workspace\juc\ajax\WebContent" />
-      <recent name="C:\Program Files\workspace\juc\ajax" />
-      <recent name="C:\Program Files\workspace\juc\datastruct\src\main\java" />
-      <recent name="C:\Program Files\workspace\juc\jucdemo\src\main\java\common" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.atguigu.sparsearray" />
-      <recent name="entities" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Program Files\workspace\juc" />
-      <recent name="C:\Program Files\workspace\juc\ajax\web\js" />
-      <recent name="C:\Program Files\workspace\juc\ajax\web\WEB-INF" />
-      <recent name="C:\Program Files\workspace\juc\ajax\web" />
-      <recent name="D:\workspace\juc\jspTest\src\main\java\com" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -457,1073 +204,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Hybris Tests.TestStreamAPI3.testCollectGroupBy">
-    <configuration default="true" type="Applet">
-      <option name="HEIGHT" value="0" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="WIDTH" value="0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStreamAPI3.test7" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
-      <module name="java8-day02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.java8" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java8.TestStreamAPI3" />
-      <option name="METHOD_NAME" value="test7" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStreamAPI3.test8" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
-      <module name="java8-day02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.java8" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java8.TestStreamAPI3" />
-      <option name="METHOD_NAME" value="test8" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStreamAPI3.testCollect" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
-      <module name="Gernral" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestStreamAPI3" />
-      <option name="METHOD_NAME" value="testCollect" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStreamAPI3.testCollectGroupBy" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
-      <module name="Gernral" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestStreamAPI3" />
-      <option name="METHOD_NAME" value="testCollectGroupBy" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStreamAPI3.testReduce" type="HybrisTests" factoryName="Hybris Tests" temporary="true" nameIsGenerated="true">
-      <module name="Gernral" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestStreamAPI3" />
-      <option name="METHOD_NAME" value="testReduce" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConcurrentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="concurrent" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="ConcurrentApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="jsp" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Springboot2019Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="springboot2019" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot2019.springboot2019.Springboot2019Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat1" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ajax1_war_exploded/" />
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="ajax1:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/ajax1_war_exploded" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="_juc" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" />
-      <predefined_log_file id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="8210" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="ajax1:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Hybris Tests.TestStreamAPI3.testCollect" />
-      <item itemvalue="Hybris Tests.TestStreamAPI3.test7" />
-      <item itemvalue="Hybris Tests.TestStreamAPI3.test8" />
-      <item itemvalue="Hybris Tests.TestStreamAPI3.testReduce" />
-      <item itemvalue="Hybris Tests.TestStreamAPI3.testCollectGroupBy" />
-      <item itemvalue="Spring Boot.DemoApplication" />
-      <item itemvalue="Spring Boot.ConcurrentApplication" />
-      <item itemvalue="Spring Boot.Springboot2019Application" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Hybris Tests.TestStreamAPI3.testCollectGroupBy" />
-        <item itemvalue="Hybris Tests.TestStreamAPI3.testCollect" />
-        <item itemvalue="Hybris Tests.TestStreamAPI3.testReduce" />
-        <item itemvalue="Hybris Tests.TestStreamAPI3.test8" />
-        <item itemvalue="Hybris Tests.TestStreamAPI3.test7" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0c00175e-2286-485f-8771-62d6e5900616" name="Default" comment="" />
-      <created>1552793915780</created>
+      <changelist id="02778244-9638-4f6d-bfb2-0cb085bfc27a" name="Default Changelist" comment="" />
+      <created>1573123199972</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552793915780</updated>
-      <workItem from="1552793918982" duration="889000" />
-      <workItem from="1552816122022" duration="5125000" />
-      <workItem from="1552836396475" duration="14282000" />
-      <workItem from="1553052375980" duration="6244000" />
-      <workItem from="1553182470620" duration="724000" />
-      <workItem from="1553315578529" duration="1122000" />
-      <workItem from="1553363915249" duration="7000" />
-      <workItem from="1553423632735" duration="4573000" />
-      <workItem from="1553679422184" duration="3845000" />
-      <workItem from="1553785832267" duration="2155000" />
-      <workItem from="1554038279935" duration="202000" />
-      <workItem from="1554606865633" duration="1447000" />
-      <workItem from="1555649587319" duration="3041000" />
-      <workItem from="1556343683618" duration="3000" />
-      <workItem from="1557544162001" duration="11000" />
-      <workItem from="1557544927809" duration="4542000" />
-      <workItem from="1557574325667" duration="2106000" />
-      <workItem from="1557640276865" duration="10027000" />
-      <workItem from="1558236739046" duration="799000" />
-      <workItem from="1558451726457" duration="1393000" />
-      <workItem from="1558852213704" duration="2550000" />
-      <workItem from="1559056661741" duration="6000" />
-      <workItem from="1559056918029" duration="1779000" />
-      <workItem from="1559448538444" duration="1344000" />
-      <workItem from="1559456104997" duration="853000" />
-      <workItem from="1559470885402" duration="2352000" />
-      <workItem from="1559484629759" duration="3218000" />
-      <workItem from="1559657083931" duration="4829000" />
-      <workItem from="1559983790360" duration="4462000" />
-      <workItem from="1560045574375" duration="86000" />
-      <workItem from="1560045680695" duration="222000" />
-      <workItem from="1560045922743" duration="199000" />
-      <workItem from="1560046142046" duration="786000" />
-      <workItem from="1560051559822" duration="614000" />
-      <workItem from="1560053196197" duration="19000" />
-      <workItem from="1560053271856" duration="2028000" />
-      <workItem from="1560074304472" duration="6523000" />
-      <workItem from="1560348019209" duration="2408000" />
-      <workItem from="1560654426598" duration="9187000" />
-      <workItem from="1560865256905" duration="4005000" />
-      <workItem from="1561260733507" duration="2715000" />
-      <workItem from="1561276927346" duration="7298000" />
-      <workItem from="1561862051132" duration="272000" />
-      <workItem from="1561862364056" duration="1894000" />
-      <workItem from="1561864282518" duration="1613000" />
-      <workItem from="1561867206278" duration="8290000" />
-      <workItem from="1561885162445" duration="1994000" />
-      <workItem from="1561887853544" duration="861000" />
-      <workItem from="1561888738177" duration="15000" />
-      <workItem from="1561903208946" duration="992000" />
-      <workItem from="1561905688123" duration="71000" />
-      <workItem from="1561905799723" duration="308000" />
-      <workItem from="1561906129389" duration="1105000" />
-      <workItem from="1561942848613" duration="5563000" />
-      <workItem from="1561971405913" duration="5028000" />
-      <workItem from="1561981911267" duration="29000" />
-      <workItem from="1561989255314" duration="8525000" />
-      <workItem from="1562054647965" duration="3737000" />
-      <workItem from="1562122014041" duration="2063000" />
-      <workItem from="1562127459469" duration="7775000" />
-      <workItem from="1562207847221" duration="4634000" />
-      <workItem from="1562228877687" duration="2031000" />
-      <workItem from="1562312999302" duration="1842000" />
-      <workItem from="1562406016301" duration="1921000" />
-      <workItem from="1562409845887" duration="2320000" />
-      <workItem from="1562467632503" duration="5211000" />
-      <workItem from="1562565440264" duration="14131000" />
-      <workItem from="1562658536524" duration="11273000" />
-      <workItem from="1562678423281" duration="15473000" />
-      <workItem from="1562841063185" duration="1009000" />
-      <workItem from="1563001363082" duration="6703000" />
-      <workItem from="1563073912544" duration="9895000" />
-      <workItem from="1563246756758" duration="7835000" />
-      <workItem from="1563283454178" duration="4441000" />
-      <workItem from="1563351861432" duration="5333000" />
-      <workItem from="1563420092577" duration="1187000" />
-      <workItem from="1563422119805" duration="340000" />
-      <workItem from="1563422508330" duration="3000" />
-      <workItem from="1563422882345" duration="137000" />
-      <workItem from="1563423054276" duration="83000" />
-      <workItem from="1563423269195" duration="66000" />
-      <workItem from="1563423648830" duration="2000" />
-      <workItem from="1563423956725" duration="108000" />
-      <workItem from="1563424096809" duration="882000" />
-      <workItem from="1563427966843" duration="399000" />
-      <workItem from="1563428398748" duration="1325000" />
-      <workItem from="1563429761056" duration="194000" />
-      <workItem from="1563429987355" duration="85000" />
-      <workItem from="1563430102443" duration="3220000" />
-      <workItem from="1563511362128" duration="839000" />
-      <workItem from="1563514943129" duration="1060000" />
-      <workItem from="1563633685240" duration="590000" />
-      <workItem from="1563634890313" duration="949000" />
-      <workItem from="1563718624725" duration="1514000" />
-      <workItem from="1563780344825" duration="6474000" />
-      <workItem from="1563789071218" duration="3794000" />
-      <workItem from="1563803707622" duration="3447000" />
-      <workItem from="1564063892531" duration="686000" />
-      <workItem from="1564225542366" duration="2000" />
-      <workItem from="1564395542586" duration="490000" />
-      <workItem from="1564725840509" duration="11847000" />
-      <workItem from="1564799648710" duration="2205000" />
-      <workItem from="1564819109955" duration="11804000" />
-      <workItem from="1564894471575" duration="421000" />
-      <workItem from="1564997720553" duration="1187000" />
-      <workItem from="1565018634123" duration="1770000" />
-      <workItem from="1565225042567" duration="95000" />
-      <workItem from="1565322471732" duration="82000" />
-      <workItem from="1565493662365" duration="7728000" />
-      <workItem from="1565512009728" duration="4745000" />
-      <workItem from="1565663099981" duration="8039000" />
-      <workItem from="1565762683456" duration="596000" />
-      <workItem from="1565846573331" duration="306000" />
-      <workItem from="1565926015769" duration="701000" />
-      <workItem from="1565926983572" duration="1467000" />
-      <workItem from="1565937806756" duration="3014000" />
-      <workItem from="1566098377249" duration="725000" />
-      <workItem from="1566099553398" duration="3616000" />
-      <workItem from="1568535509580" duration="3118000" />
-      <workItem from="1571460845482" duration="52000" />
-      <workItem from="1571563358082" duration="10172000" />
-      <workItem from="1572792983868" duration="596000" />
-      <workItem from="1572877178012" duration="3649000" />
+      <updated>1573123199972</updated>
+      <workItem from="1573123202695" duration="1523000" />
     </task>
-    <task id="LOCAL-00001" summary="juc">
-      <created>1561949246582</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1561949246582</updated>
-    </task>
-    <task id="LOCAL-00002" summary="juc">
-      <created>1561977747260</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1561977747261</updated>
-    </task>
-    <task id="LOCAL-00003" summary="common">
-      <created>1562036823023</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1562036823023</updated>
-    </task>
-    <task id="LOCAL-00004" summary="juc">
-      <created>1562036882983</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1562036882983</updated>
-    </task>
-    <task id="LOCAL-00005" summary="juc">
-      <created>1562728809592</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1562728809592</updated>
-    </task>
-    <task id="LOCAL-00006" summary="juc">
-      <created>1563246797376</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1563246797377</updated>
-    </task>
-    <task id="LOCAL-00007" summary="juc">
-      <created>1563428603226</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1563428603226</updated>
-    </task>
-    <task id="LOCAL-00008" summary="juc">
-      <created>1563428619680</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1563428619680</updated>
-    </task>
-    <task id="LOCAL-00009" summary="juc">
-      <created>1565507220530</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1565507220530</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 40m 11s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 42m 13s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 43m 21s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 43m 38s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 51m 37s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 51m 51s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 52m 51s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 23h 00m 36s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollectGroupBy - 2019.11.04 at 23h 10m 40s.xml">
-      <configuration name="TestStreamAPI3.testCollectGroupBy" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollectGroupBy - 2019.11.04 at 23h 11m 58s.xml">
-      <configuration name="TestStreamAPI3.testCollectGroupBy" configurationId="HybrisTests" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="370018000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="1523000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48897058" visible="true" weight="0.1930295" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.5058651" side_tool="true" weight="0.29021448" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Web" order="6" sideWeight="0.5110294" side_tool="true" weight="0.19571045" />
-      <window_info id="JRebel" order="7" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24093817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.49706745" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49865952" weight="0.3797654" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.35253772" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" sideWeight="0.49570817" weight="0.44281524" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.32844576" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.50293255" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.9560117" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32921812" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.4692082" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32844576" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49785408" weight="0.34604105" />
-      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="16" />
-      <window_info anchor="bottom" id="Hybris Console" order="17" weight="0.32921812" />
-      <window_info anchor="bottom" id="Dependency Viewer" order="18" weight="0.32991204" />
-      <window_info anchor="bottom" id="Jelastic" order="19" />
-      <window_info anchor="bottom" id="JRebel Console" order="20" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" order="21" weight="0.32991204" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Maven" order="1" weight="0.2386059" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Structure" order="7" weight="0.25" />
-      <window_info anchor="right" id="Database" order="8" weight="0.3288835" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="Bean Validation" order="11" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="common" />
-    <MESSAGE value="juc" />
-    <option name="LAST_COMMIT_MESSAGE" value="juc" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/SingleTonDemo.java</url>
-          <line>4</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkedList.java</url>
-          <line>234</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkedList.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java</url>
-          <line>172</line>
-          <properties />
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Servlet/src/com/atguigu/servlet/GETInfoServlet.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/jucdemo/src/main/java/interview/jvm/gc/HelloGC.java</url>
-          <line>3</line>
-          <properties class="interview.jvm.gc.HelloGC" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/proxy/CoalBoss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/proxy/CoalBossProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/proxy/DynaProxyHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/proxy/SteelBossProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/proxy/TestProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/net/jcip/examples/ConnectionDispenser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/jdbc/AbstractDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/jdbc/JDBCUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/SynchronousQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ReenterLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot2019/src/test/java/com/atguigu/springboot2019/springboot2019/Springboot2019ApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Server/RepMaven/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar!/org/springframework/ui/ModelMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="76" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/entities/Parent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Server/RepMaven/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar!/org/springframework/ui/ModelMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="73" column="32" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/MyThreadPoolDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/ContainerNotSafeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/thread/TestAtomicDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/Formatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="2518" selection-start-line="2518" selection-end-line="2518" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="269" column="27" selection-start-line="269" selection-start-column="27" selection-end-line="269" selection-end-column="27" />
-          <folding>
-            <element signature="method#countBoy4#0;class#CircleSingleLinkedList#0" />
-            <element signature="docComment;method#countBoy3#0;class#CircleSingleLinkedList#0" />
-            <element signature="method#countBoy3#0;class#CircleSingleLinkedList#0" />
-            <element signature="docComment;method#countBoy#0;class#CircleSingleLinkedList#0" />
-            <element signature="method#countBoy#0;class#CircleSingleLinkedList#0" />
-            <element signature="method#countBoy2#0;class#CircleSingleLinkedList#0" />
-            <element signature="method#addBoy1#0;class#CircleSingleLinkedList#0" />
-            <element signature="method#addBoy#0;class#CircleSingleLinkedList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/web/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/springboot2019/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/WebContent/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/ajax/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/thread/SpinLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jucdemo/src/main/java/interview/review/ReviewProAndCon_BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Boy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gernral/src/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/target/classes/index.jsp" />
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/io/PrintWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/WebContent/index.jsp" />
-    <entry file="file://$PROJECT_DIR$/Servlet/web/js/jquery-1.9.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Servlet/src/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Servlet/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Servlet/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Servlet/src/com/atguigu/servlet/HelloServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Servlet/src/com/atguigu/servlet/GETInfoServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day06/src/com/atguigu/servlet/Context1.java" />
-    <entry file="file://$PROJECT_DIR$/day06/src/com/atguigu/servlet/ConfigServlet.java" />
-    <entry file="file://$PROJECT_DIR$/day06/WebContent/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2916">
-          <caret line="228" column="29" selection-start-line="228" selection-start-column="29" selection-end-line="228" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gernral/src/Copy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gernral/src/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1112">
-          <caret line="155" column="4" lean-forward="true" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gernral/src/TestStreamAPI2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gernral/src/TestStreamAPI3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="426">
+          <caret line="152" column="31" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1533,17 +278,6 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -1558,7 +292,6 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1581,7 +314,6 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1593,11 +325,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java8-day01</last-edited>
+          <last-edited>Gernral</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2032032" />
+                <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1617,7 +350,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -3,16 +3,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="E:/BNDownload/周阳高级部分/01_JUC/codes/java180228/pom.xml" />
-        <option value="$PROJECT_DIR$/jucdemo/pom.xml" />
-        <option value="$PROJECT_DIR$/jsp/pom.xml" />
-        <option value="$PROJECT_DIR$/concurrency/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot2019/pom.xml" />
-        <option value="$PROJECT_DIR$/datastruct/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/DataStructure/out" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
   </component>
 </project>
