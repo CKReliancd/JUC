@@ -43,8 +43,24 @@ public class ArrayStack {
             return;
         }
         for (int i = top; i >= 0; i++) {
-            System.out.printf("stack[%d]=%d\n",i,stack[i]);
+            System.out.printf("stack[%d]=%d\n", i, stack[i]);
+        }
 
+    }
+
+    /**
+     * 返回运算符的优先级用数字表示
+     * 数字越大，则优先级就越高
+     */
+    public int priority(int oper) {
+
+        if(oper == '*'||oper == '/') {
+            return 1;
+        } else if (oper == '+'||oper == '-'){
+            return 0;
+        }else {
+            //假定目前的表达式只有+，-，*，/
+            return -1;
         }
 
     }
