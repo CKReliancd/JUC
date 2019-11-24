@@ -1,5 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+  <component name="ChangeListManager">
+    <list default="true" id="02778244-9638-4f6d-bfb2-0cb085bfc27a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java8-day01/java8-day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jucdemo/src/main/java/poi/ExcelExport3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Reliance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ajax1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/untitled_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Reliance.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastruct/datastruct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/datastruct.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8-day01/java8-day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8-day01/java8-day01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8-day02/java8-day02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8-day02/java8-day02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jucdemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jucdemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot2019/springboot2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot2019/springboot2019.iml" afterDir="false" />
+=======
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
@@ -23,47 +91,20 @@
       <change beforePath="$PROJECT_DIR$/datastruct/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/Josephu.java" afterDir="false" />
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
     </list>
-    <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/java180228/target/" />
-    <ignored path="E:/BNDownload/周阳高级部分/01_JUC/codes/juc_demo/target/" />
-    <ignored path="$PROJECT_DIR$/jucdemo/target/" />
-    <ignored path="$PROJECT_DIR$/jsp/target/" />
-    <ignored path="$PROJECT_DIR$/jspTest/target/" />
-    <ignored path="$PROJECT_DIR$/concurrency/target/" />
-    <ignored path="$PROJECT_DIR$/datastruct/target/" />
-    <ignored path="$PROJECT_DIR$/springboot2019/target/" />
+    <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/ajax/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="juc" />
-  </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf>
+=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java">
@@ -80,11 +121,29 @@
           </provider>
         </entry>
       </file>
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2094">
               <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+=======
+        <entry file="file://$PROJECT_DIR$/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="300">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="14" />
+=======
+            <state relative-caret-position="468">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+              <folding>
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+              </folding>
+>>>>>>> 72429b188babb14fcec0a82a9153fd1993cdd4a7
             </state>
           </provider>
         </entry>
@@ -92,8 +151,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/SingleLinkeListDemo.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="-504">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
+            <state relative-caret-position="144">
+              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
+>>>>>>> 72429b188babb14fcec0a82a9153fd1993cdd4a7
             </state>
           </provider>
         </entry>
@@ -101,12 +169,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="180">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="426">
+              <caret line="152" column="31" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="31" />
+=======
+            <state relative-caret-position="630">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 72429b188babb14fcec0a82a9153fd1993cdd4a7
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/linkedlist/CircleSingleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -171,48 +254,19 @@
           </provider>
         </entry>
       </file>
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Enum" />
-        <option value="Singleton" />
-        <option value="Class" />
-      </list>
-    </option>
-    <option name="SCHEME" value="Project" />
-  </component>
-  <component name="FindBugs-IDEA-Workspace">
-    <analyzeAfterCompile>true</analyzeAfterCompile>
-    <analyzeAfterAutoMake>true</analyzeAfterAutoMake>
-    <runInBackground>true</runInBackground>
-    <toolWindowGroupBy>Class</toolWindowGroupBy>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>compare</find>
-      <find>sgn</find>
-      <find>Comparator</find>
-      <find>initialValue</find>
-      <find>lastNumber</find>
-      <find>BigInteger</find>
-      <find>calendar</find>
-      <find>compareAndSwapInt</find>
-      <find>put</find>
-      <find>execute</find>
-      <find>MyIOThreadPool</find>
-      <find>private</find>
-      <find>temp</find>
+      <find>reduce</find>
     </findStrings>
-    <replaceStrings>
-      <replace>IOThreadPool</replace>
-      <replace>public</replace>
-      <replace>curNode</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+=======
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/datastruct" />
   </component>
@@ -314,26 +368,76 @@
       <select />
     </treeState>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="785" />
+=======
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="946" />
+>>>>>>> 72429b188babb14fcec0a82a9153fd1993cdd4a7
     <option name="y" value="-5" />
-    <option name="width" value="1145" />
+    <option name="width" value="984" />
     <option name="height" value="1040" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+<<<<<<< HEAD
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+=======
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
+>>>>>>> 72429b188babb14fcec0a82a9153fd1993cdd4a7
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="Gernral" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="Gernral" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="juc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="java8-day02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
               <item name="datastruct" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -370,6 +474,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
               <item name="atguigu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -393,45 +498,21 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java8-day02" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Gernral" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15482695" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Program Files\workspace\juc\ajax\web\lib" />
-      <recent name="C:\Program Files\workspace\juc\ajax\WebContent" />
-      <recent name="C:\Program Files\workspace\juc\ajax" />
-      <recent name="C:\Program Files\workspace\juc\datastruct\src\main\java" />
-      <recent name="C:\Program Files\workspace\juc\jucdemo\src\main\java\common" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.atguigu.sparsearray" />
-      <recent name="entities" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Program Files\workspace\juc" />
-      <recent name="C:\Program Files\workspace\juc\ajax\web\js" />
-      <recent name="C:\Program Files\workspace\juc\ajax\web\WEB-INF" />
-      <recent name="C:\Program Files\workspace\juc\ajax\web" />
-      <recent name="D:\workspace\juc\jspTest\src\main\java\com" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -445,6 +526,8 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
   <component name="RunManager" selected="Application.POI">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
@@ -671,15 +754,20 @@
       </list>
     </recent_temporary>
   </component>
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0c00175e-2286-485f-8771-62d6e5900616" name="Default" comment="" />
-      <created>1552793915780</created>
+      <changelist id="02778244-9638-4f6d-bfb2-0cb085bfc27a" name="Default Changelist" comment="" />
+      <created>1573123199972</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
+      <updated>1573123199972</updated>
+      <workItem from="1573123202695" duration="1523000" />
+=======
       <updated>1552793915780</updated>
       <workItem from="1552793918982" duration="889000" />
       <workItem from="1552816122022" duration="5125000" />
@@ -864,51 +952,19 @@
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
       <updated>1563428619680</updated>
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
     </task>
-    <task id="LOCAL-00009" summary="juc">
-      <created>1565507220530</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1565507220530</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 40m 11s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 42m 13s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 43m 21s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 43m 38s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 51m 37s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 51m 51s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 22h 52m 51s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollect - 2019.11.04 at 23h 00m 36s.xml">
-      <configuration name="TestStreamAPI3.testCollect" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollectGroupBy - 2019.11.04 at 23h 10m 40s.xml">
-      <configuration name="TestStreamAPI3.testCollectGroupBy" configurationId="HybrisTests" />
-    </history-entry>
-    <history-entry file="TestStreamAPI3_testCollectGroupBy - 2019.11.04 at 23h 11m 58s.xml">
-      <configuration name="TestStreamAPI3.testCollectGroupBy" configurationId="HybrisTests" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="377959000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="1523000" />
+=======
+    <option name="totallyTimeSpent" value="374373000" />
+>>>>>>> 72429b188babb14fcec0a82a9153fd1993cdd4a7
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -918,12 +974,33 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="628" y="-4" width="916" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48897058" weight="0.23927614" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+<<<<<<< HEAD
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24093817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48897058" visible="true" weight="0.21179625" />
+>>>>>>> 72429b188babb14fcec0a82a9153fd1993cdd4a7
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -931,45 +1008,35 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Web" order="6" sideWeight="0.5110294" side_tool="true" weight="0.19571045" />
       <window_info id="JRebel" order="7" side_tool="true" />
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.49706745" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49865952" weight="0.3797654" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.35253772" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" sideWeight="0.49570817" weight="0.44281524" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.32844576" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.50293255" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.9560117" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32921812" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.4692082" />
-      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32844576" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49785408" weight="0.34604105" />
-      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="16" />
-      <window_info anchor="bottom" id="Hybris Console" order="17" weight="0.32921812" />
-      <window_info anchor="bottom" id="Dependency Viewer" order="18" weight="0.32991204" />
-      <window_info anchor="bottom" id="Jelastic" order="19" />
-      <window_info anchor="bottom" id="JRebel Console" order="20" side_tool="true" />
-      <window_info anchor="bottom" id="Application Servers" order="21" weight="0.32991204" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Maven" order="1" weight="0.2386059" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Structure" order="7" weight="0.25" />
-      <window_info anchor="right" id="Database" order="8" weight="0.3288835" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-      <window_info anchor="right" id="Bean Validation" order="11" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java8-day02/src/com/atguigu/java8/TestStreamAPI3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="14" />
+=======
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -1480,6 +1547,7 @@
             <element signature="method#addBoy1#0;class#CircleSingleLinkedList#0" />
             <element signature="method#addBoy#0;class#CircleSingleLinkedList#0" />
           </folding>
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
         </state>
       </provider>
     </entry>
@@ -1506,8 +1574,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/datastruct/src/main/java/com/atguigu/stack/ArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="349">
           <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="426">
+          <caret line="152" column="31" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="31" />
+=======
+        <state relative-caret-position="355">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
+>>>>>>> 72429b188babb14fcec0a82a9153fd1993cdd4a7
           <folding>
             <element signature="e#284#285#0" expanded="true" />
             <element signature="e#325#326#0" expanded="true" />
@@ -1520,17 +1598,6 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -1545,7 +1612,6 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1568,7 +1634,6 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1580,7 +1645,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+<<<<<<< HEAD
+          <last-edited>Gernral</last-edited>
+=======
           <last-edited>datastruct</last-edited>
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1605,7 +1674,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -2,15 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
+        <module name="juc" />
+=======
         <module name="springboot2019" />
         <module name="datastruct" />
         <module name="juc_demo" />
         <module name="jsp" />
+>>>>>>> f76c6c97b484a5a63240205ef7d2fcd5b380d747
       </profile>
       <profile name="Annotation profile for com.packging.juc" enabled="true">
         <sourceOutputDir name="../../target/generated-sources/annotations" />
@@ -20,19 +23,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="concurrent" target="1.8" />
-      <module name="datastruct" target="1.8" />
-      <module name="jsp" target="1.8" />
-      <module name="jucdemo" target="1.8" />
-      <module name="servlet" target="1.8" />
-      <module name="springboot2019" target="1.8" />
+      <module name="juc" target="1.5" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="concurrent" options="-parameters" />
-      <module name="jsp" options="-parameters" />
-      <module name="springboot2019" options="-parameters" />
-    </option>
   </component>
 </project>
